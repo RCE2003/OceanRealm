@@ -1,0 +1,4 @@
+name: OceanRealm
+version: '${project.version}'
+main: oceanrealm.oceanrealm.OceanRealm
+api-version: '1.21'
